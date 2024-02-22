@@ -14,6 +14,7 @@ list_of_files = [
 "src/components/data_transformation.py",
 "src/components/model_trainer.py",
 "src/components/model_evaluation.py",
+"src/exception/exception"
 "src/utils/__init__.py",
 "src/utils/utils.py",
 "src/pipeline/__init__.py",
