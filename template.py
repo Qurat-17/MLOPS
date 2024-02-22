@@ -7,14 +7,15 @@ print(Path("a/b/c.txt"))
 
 list_of_files = [
 
-".github/workflow/.keepgit"
+".github/workflows/.keepgit",
 "src/__init__.py",
 "src/components/__init__.py",
 "src/components/data_ingestion.py",
 "src/components/data_transformation.py",
 "src/components/model_trainer.py",
 "src/components/model_evaluation.py",
-"src/exception/exception"
+"src/exception/exception.py",
+"src/logger/logging.py",
 "src/utils/__init__.py",
 "src/utils/utils.py",
 "src/pipeline/__init__.py",
